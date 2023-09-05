@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my [CV](https://github.com/ziqi92/ziqi92.github.io/tree/master/files/cv_ziqi.pdf) for more details.
+You can also download my <a href="https://github.com/ziqi92/ziqi92.github.io/tree/master/files/cv_ziqi.pdf" download="cv_ziqi.pdf">CV</a> for more details.
 
 ## Education
 
