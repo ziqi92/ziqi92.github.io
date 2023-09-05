@@ -9,26 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download my [CV](https://github.com/ziqi92/ziqi92.github.io/tree/master/files/cv_ziqi.pdf) for more details.
+
 ## Education
 
 * B.S. in Computer Science, Wuhan University, China 2014-2018
 * Ph.D in Computer Science and Engineering, The Ohio State University, US 2019-2024 (expected)
 
 ## Work experience
+  
+* Meta Platforms, 2022.05-2022.08
+  * Software Engineer Intern, Machine Learning (PhD)
+  * Personalized re-ranking and slate ranking based on reinforcement learning.
 
-* 2021.05-2021.08: Research Intern
-  * NEC Labs America
-  
-* 2022.05-2022.08: Software Engineer Intern, Machine Learning (PhD)
-  * Meta Platforms
-  
-
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* NEC Labs America, 2021.05-2021.08
+  * Research Intern
+  * Advisor: Dr. Martin Renqiang Min
+  * Biological sequence design (i.e., peptide sequence and TCR sequence) via reinforcement learning.
