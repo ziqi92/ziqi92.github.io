@@ -14,7 +14,7 @@ You can also download my <a href="https://github.com/ziqi92/ziqi92.github.io/tre
 ## Education
 
 * B.S. in Computer Science, Wuhan University, China 2014-2018
-* Ph.D in Computer Science and Engineering, The Ohio State University, US 2019-2024 (expected)
+* Ph.D in Computer Science and Engineering, The Ohio State University, US 2019-current
 
 ## Work experience
   
