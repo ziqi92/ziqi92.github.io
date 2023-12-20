@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ziqi Chen"
 title_separator          : "-"
 name                     : &name "Ziqi Chen"
-description              : &description "PhD student at The Ohio State University"
+description              : &description "PhD candidate at The Ohio State University"
 url                      : https://ziqi92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziqi92/ziqi92.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziqi Chen"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "5-th year PhD student at The Ohio State University"
   location         : "Columbus, OH"
   employer         :

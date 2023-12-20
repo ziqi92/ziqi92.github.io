@@ -14,6 +14,6 @@ I am a fifth year CSE PhD student at The Ohio State University, advised by [Xia 
 
 My research interests focus on deep generative models and reinforcement learning, particularly their applications in drug discovery. My previous research includes molecule generation, molecular synthesis, and biological sequence design.
 
-Currently, I am actively seeking postdoctoral opportunities as well as applied research positions in the industry!
+Currently, I am actively seeking full time positions in the industry as well as postdoctoral opportunities!
 
 

@@ -9,7 +9,7 @@ You can find a full list of works at <a href="https://scholar.google.com/citatio
 
 {% include base_path %}
 
-* **Ziqi Chen**, Bo Peng, Srinivasan Parthasarathy, Xia Ning, **Shape-conditioned 3D Molecule Generation via Equivariant Diffusion Models**, Under review, 2023. [arXiv](https://arxiv.org/abs/2308.11890)
+* **Ziqi Chen**, Bo Peng, Srinivasan Parthasarathy, Xia Ning, **Shape-conditioned 3D Molecule Generation via Equivariant Diffusion Models**, NeurIPS 2023 Generative AI and Biology (GenBio) Workshop, 2023. [paper](https://openreview.net/pdf?id=JWfvMT43pZ)
 
 * **Ziqi Chen**, Oluwatosin R Ayinde, James R Fuchs, Huan Sun, Xia Ning, **G$^2$Retro as a two-step graph generative models for retrosynthesis prediction**, Communications Chemistry 6.1 (2023): 102. \[[Paper](https://www.nature.com/articles/s42004-023-00897-3)\]\[[Code](https://github.com/ninglab/G2Retro)\]
 
